@@ -15,5 +15,7 @@
 
 >Simple. Just either clone or download the repo and run **app.py**.
 
+## How to install dependencies
 
+> Just run **pip3 install -r requirements.txt**
 
