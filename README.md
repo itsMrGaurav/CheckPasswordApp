@@ -17,5 +17,7 @@
 
 ## How to install dependencies
 
-> Just run **pip3 install -r requirements.txt**
+> Just run 
+> 
+> ```pip3 install -r requirements.txt```
 
